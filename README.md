@@ -2,12 +2,13 @@
 
 🔭 I am currently in my second year at Epitech
 
+👨‍🏫 I love algorithm and web
+
 📞 **Contact:**
 - 📧 email ➡️ quentinmail974@gmail.com
 - ⛄ discord ➡️ MyNameIsBanana#9537
 - 📱linkedin ➡️ [quentin](https://www.linkedin.com/in/quentinrbt/)
 
-👨‍🏫I love algorithm
 
 <br><br><br>
 
