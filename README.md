@@ -2,11 +2,10 @@
 
 🔭 I am currently in my second year at Epitech
 
-📧 email ➡️ quentinmail974@gmail.com
-
-⛄ discord ➡️ MyNameIsBanana#9537
-
-📱linkedin ➡️ <a href="https://www.linkedin.com/in/quentinrbt/">Quentin</a>
+📞 **Contact:**
+- 📧 email ➡️ quentinmail974@gmail.com
+- ⛄ discord ➡️ MyNameIsBanana#9537
+- 📱linkedin ➡️ [quentin](https://www.linkedin.com/in/quentinrbt/)
 
 
 <p align="center">
