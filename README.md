@@ -15,7 +15,7 @@
   <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/6ca41455-719e-4c2a-97a7-0a184dbd931f.svg" width="500" height="300"/>
 </p>
 <p align="right">
-  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/1e8642f4-6543-4bac-bb70-a473fc421fa0.svg" width="500" height="300"/>
+  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/3f27d6bf-d4eb-4de8-a63b-9b3122843b7e.svg" width="500" height="300"/>
 </p>
 
 <h2>Skills</h2>
