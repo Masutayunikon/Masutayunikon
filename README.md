@@ -6,7 +6,7 @@
 
 📞 **Contact:**
 - 📧 email ➡️ quentinmail974@gmail.com
-- ⛄ discord ➡️ MyNameIsBanana#9537
+- ⛄ discord ➡️ MyNameIsBanana#9537 (best way to contact me :D)
 - 📱linkedin ➡️ [quentin](https://www.linkedin.com/in/quentinrbt/)
 
 <br>
