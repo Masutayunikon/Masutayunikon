@@ -4,6 +4,9 @@
 - 📫 How to reach me: quentin.robert@epitech.eu
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Masutayunikon">
+</p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Masutayunikon" />
 </p>
 
