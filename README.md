@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I'm Yunikon </h2>
+<h2> Hi there 👋 I'm Yunikon (Quentin) </h2>
 
 🔭 I am currently in my second year at Epitech
 
