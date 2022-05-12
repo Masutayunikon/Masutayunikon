@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  *** Hi there 👋 I'm Yunikon (Quentin) ***
+  Hi there <img src="https://media.giphy.com/media/3oGRFh9szq10x1HAys/giphy.gif" width="30px"/> I'm Yunikon (Quentin)
 </div>
 
 🔭 I am currently in my second year at Epitech
