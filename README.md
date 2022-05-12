@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AKjT5kDZMK4wsPXJPk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="100"/>
   <div id="social-badges">
       <a href="https://www.linkedin.com/in/quentinrbt/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
