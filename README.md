@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/eae302d9-e54b-4ce0-910a-f38924b0a835.svg" width="400" height="500"/>
+  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/eae302d9-e54b-4ce0-910a-f38924b0a835.svg" width="600" height="300"/>
 </p>
 
