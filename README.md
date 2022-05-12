@@ -8,9 +8,6 @@
 - 📱linkedin ➡️ [quentin](https://www.linkedin.com/in/quentinrbt/)
 
 <br><br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masutayunikon">
-</p>
 
 <h2>Last 30 days coding</h2>
 
