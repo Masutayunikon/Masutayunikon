@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=Masutayunikon&style=flat-square&color=blue" alt=""/>
+  <div id="badges">
+    <img src="https://komarev.com/ghpvc/?username=Masutayunikon&style=flat-square&color=blue" alt=""/>
+  </div>
   <h1> Hi there 🙌 </h1>
 </div>
     
