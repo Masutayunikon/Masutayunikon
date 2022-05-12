@@ -15,6 +15,6 @@
 <h2>Last 30 days coding</h2>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/21f6b1c3-7c2a-4dce-8632-9a3d10da5949.svg" width="900" height="500"/>
+  <figure><embed src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/6ca41455-719e-4c2a-97a7-0a184dbd931f.svg"></embed></figure>
 </p>
 
