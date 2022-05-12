@@ -11,7 +11,7 @@
   <h1> Hi there 🙌 </h1>
 </div>
     
----
+<h2>About me </h2>
 
 🔭 I am currently in my second year at Epitech
 
