@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Yunikon
 
-- 🔭 I am currently in my second year at Epitech
-- 📫 Contact me
+🔭 I am currently in my second year at Epitech
 
-📧 email ➡️ quentin.robert@epitech.eu \
+📧 email ➡️ quentinmail974@gmail.com
 
-⛄ discord ➡️ MyNameIsBanana#9537 \
+⛄ discord ➡️ MyNameIsBanana#9537
 
 📱linkedin ➡️ <a href="https://www.linkedin.com/in/quentinrbt/">Quentin</a>
 
