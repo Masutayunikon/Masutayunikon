@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I am currently in my second year at Epitech
-- 📫 Contact me \
-- 
+- 📫 Contact me
+
 📧 email ➡️ quentin.robert@epitech.eu \
 
 ⛄ discord ➡️ MyNameIsBanana#9537 \
