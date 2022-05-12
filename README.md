@@ -9,8 +9,6 @@
 - ⛄ discord ➡️ MyNameIsBanana#9537 (best way to contact me :D)
 - 📱linkedin ➡️ [quentin](https://www.linkedin.com/in/quentinrbt/)
 
-<br>
-
 <h2>Languages over last 30 days</h2>
 
 <p align="center">
