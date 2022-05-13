@@ -47,7 +47,7 @@
 ---
 🛠️ Tools and skills
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
@@ -62,3 +62,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
 </div>
+
+---
+🔥 Github statistics
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?    user=Masutayunikon&theme=tokyonight&background=000000&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=3C00DD&currStreakLabel=DDDDDD&dates=28DD00&sideNums=009EDD" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masutayunikon&layout=countt&theme=tokyonight">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Masutayunikon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+</div>
+
