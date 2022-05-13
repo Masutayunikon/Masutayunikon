@@ -67,12 +67,10 @@
 🔥 Github statistics
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?    user=Masutayunikon&theme=tokyonight&background=000000&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=3C00DD&currStreakLabel=DDDDDD&dates=28DD00&sideNums=009EDD" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masutayunikon&layout=countt&theme=tokyonight">
 </div>
 <div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Masutayunikon&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img src="https://github-readme-stats.vercel.app/api?username=Masutayunikon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </div>
 
