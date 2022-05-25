@@ -25,7 +25,6 @@
 📰 About me
 
 - 🏫 I am currently in my second year at Epitech </h4>
-- 🌐 Studying to become Software developer </h4>
 - 💙 Love web and algorithm </h4>
 
 ---
