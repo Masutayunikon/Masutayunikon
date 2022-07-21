@@ -16,7 +16,7 @@
   </div>
   <h1> Hi there 🙌 </h1>
   <div>
-    <img src="https://giffiles.alphacoders.com/104/10474.gif" width="900"/>
+    <img src="https://giffiles.alphacoders.com/104/10474.gif" width="100%"/>
   </div>
 </div>
 
