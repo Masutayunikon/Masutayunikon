@@ -24,7 +24,7 @@
 
 📰 About me
 
-- 🏫 I am currently in my second year at Epitech </h4>
+- 🏫 I am currently in my third year at Epitech </h4>
 - 💙 Love web and algorithm </h4>
 
 ---
@@ -40,7 +40,7 @@
 ⏲️ Development time last 30 days
 
 <p align="center">
-  <img src="https://wakatime.com/share/@Yunikon/91551034-9123-4890-9581-08b11caa30cd.svg" width="900" height="500"/>
+  <img src="https://wakatime.com/share/@Yunikon/b3726a92-a41a-4d70-a7bf-dde5f1a6aa69.svg" width="900" height="500"/>
 </p>
 
 ---
