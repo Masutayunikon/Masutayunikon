@@ -40,7 +40,7 @@
 ⏲️ Development time last 30 days
 
 <p align="center">
-  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/e1a34f77-2026-4489-8fcb-d79c5e7e1692.svg" width="900" height="500"/>
+  <img src="https://wakatime.com/share/@Yunikon/91551034-9123-4890-9581-08b11caa30cd.svg" width="900" height="500"/>
 </p>
 
 ---
