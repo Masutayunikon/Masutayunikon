@@ -32,7 +32,7 @@
 💻Languages over last 30 days
 
 <p align="center">
-  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/6ca41455-719e-4c2a-97a7-0a184dbd931f.svg" width="900" height="500"/>
+  <img src="https://wakatime.com/share/@09c93ba0-d4ce-4a6f-9cf2-f345d63b9474/6ca41455-719e-4c2a-97a7-0a184dbd931f.svg" width="900" height="500"></iframe>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ---
 🛠️ Tools and skills
 
-<iframe src="https://github.com/Masutayunikon/cv/blob/main/Quentin%20ROBERT%20(3).pdf" width="100%" height="100%">
+<iframe src="https://github.com/Masutayunikon/cv/blob/main/Quentin%20ROBERT%20(3).pdf" width="900" height="1200"/>
 
 ---
 🔥 Github statistics
