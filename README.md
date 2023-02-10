@@ -46,7 +46,7 @@
 ---
 🛠️ Tools and skills
 
-https://github.com/Masutayunikon/cv/blob/main/Quentin%20ROBERT%20(3).pdf
+https://masutayunikon.github.io/cv/
 
 
 ---
