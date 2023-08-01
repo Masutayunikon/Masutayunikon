@@ -24,7 +24,7 @@
 
 📰 About me
 
-- 🏫 I am currently in my third year at Epitech
+- 🏫 I am currently in my fourth year at Epitech
 - 💙 Love web and algorithm
 - :sweden: Currently in Jönköping in Sweden
 - :pinched_fingers: Open source is the most important thing 
