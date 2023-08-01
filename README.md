@@ -24,8 +24,10 @@
 
 📰 About me
 
-- 🏫 I am currently in my third year at Epitech </h4>
-- 💙 Love web and algorithm </h4>
+- 🏫 I am currently in my third year at Epitech
+- 💙 Love web and algorithm
+- :sweden: Currently in Jönköping in Sweden
+- :pinched_fingers: Open source is the most important thing 
 
 ---
 
@@ -42,12 +44,6 @@
 <p align="center">
   <img src="https://wakatime.com/share/@Yunikon/b3726a92-a41a-4d70-a7bf-dde5f1a6aa69.svg" width="900" height="500"/>
 </p>
-
----
-🛠️ Tools and skills
-
-https://masutayunikon.github.io/cv/
-
 
 ---
 🔥 Github statistics
