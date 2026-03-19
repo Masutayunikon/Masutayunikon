@@ -1,6 +1,7 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="100"/>
-  <div id="social-badges">
+
+  <div>
     <a href="https://www.linkedin.com/in/quentinrbt/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -14,16 +15,17 @@
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
     </a>
   </div>
-  <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=Masutayunikon&style=flat-square&color=blue" alt=""/>
-  </div>
+
+  <img src="https://komarev.com/ghpvc/?username=Masutayunikon&style=flat-square&color=blue" alt=""/>
+
   <h1>Salut 🙌</h1>
-  <div>
-    <img src="https://giffiles.alphacoders.com/104/10474.gif" width="100%"/>
-  </div>
+
+  <img src="https://giffiles.alphacoders.com/104/10474.gif" width="100%"/>
 </div>
 
 ---
+
+<div align="center">
 
 ### 📰 À propos
 
@@ -31,7 +33,11 @@ Développeur full-stack avec 2 ans d'expérience pro, je me réoriente vers le *
 Diplômé d'**Epitech** (Expert en Ingénierie Logicielle) et d'un **Master UI/UX** à l'Université de Jönköping 🇸🇪.  
 Curieux, autonome, et fan d'open source.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🛠️ Compétences
 
@@ -59,14 +65,42 @@ Curieux, autonome, et fan d'open source.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
+
+### 🚀 Projets open source
+
+| Projet | Description |
+|--------|-------------|
+| [**Fankarr**](https://github.com/Masutayunikon/fankarr) | Gestionnaire de projets fansub (type Radarr) — Docker, GHCR, pipeline CI/CD GitHub Actions |
+| [**Fankarr-Scrapper**](https://github.com/Masutayunikon/fankarr-scrapper) | Scraper automatisé générant un JSON projets Fankai ↔ torrents, déclenché toutes les 6h |
+| [**Auto-updater Runtipi**](https://github.com/Masutayunikon) | Veille automatique sur les images Docker de mon appstore Runtipi perso, avec PR automatiques |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Trophées GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Masutayunikon&theme=tokyonight&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🔥 Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masutayunikon&layout=compact&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Masutayunikon&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Masutayunikon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masutayunikon&layout=compact&theme=tokyonight"/>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Masutayunikon&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Masutayunikon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+
 </div>
