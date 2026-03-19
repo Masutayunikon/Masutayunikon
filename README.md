@@ -87,7 +87,7 @@ Curieux, autonome, et fan d'open source.
 
 ### 🏆 Trophées GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Masutayunikon&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-reiyua-mirror.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
