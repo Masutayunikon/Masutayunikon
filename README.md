@@ -77,7 +77,7 @@ Curieux, autonome, et fan d'open source.
 |--------|-------------|
 | [**Fankarr**](https://github.com/Masutayunikon/fankarr) | Gestionnaire de projets fansub (type Radarr) — Docker, GHCR, pipeline CI/CD GitHub Actions |
 | [**Fankarr-Scrapper**](https://github.com/Masutayunikon/fankarr-scrapper) | Scraper automatisé générant un JSON projets Fankai ↔ torrents, déclenché toutes les 6h |
-| [**Auto-updater Runtipi**](https://github.com/Masutayunikon) | Veille automatique sur les images Docker de mon appstore Runtipi perso, avec PR automatiques |
+| [**Appstore Runtipi**](https://github.com/Masutayunikon/runtipi-appstore) | Les images Docker de mon appstore Runtipi perso, avec PR automatiques pour les mettre à jours |
 
 </div>
 
@@ -87,7 +87,7 @@ Curieux, autonome, et fan d'open source.
 
 ### 🏆 Trophées GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Masutayunikon&theme=tokyonight&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Masutayunikon&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
