@@ -29,9 +29,10 @@
 
 ### 📰 À propos
 
-Développeur full-stack avec 2 ans d'expérience pro, je me réoriente vers le **DevOps** en capitalisant sur mes compétences Linux, Docker et CI/CD.  
-Diplômé d'**Epitech** (Expert en Ingénierie Logicielle) et d'un **Master UI/UX** à l'Université de Jönköping 🇸🇪.  
-Curieux, autonome, et fan d'open source.
+Jeune diplômé d’Epitech, développeur fullstack spécialisé en Vue.js, Nuxt.js, Node.js et Python, avec expérience
+sur des projets web complexes en environnement académique et professionnel. Habitué au développement en
+autonomie comme en équipe, avec une forte capacité d’analyse et de résolution de problèmes. Ouvert à des
+opportunités en CDI, CDD ou missions freelance.
 
 </div>
 
